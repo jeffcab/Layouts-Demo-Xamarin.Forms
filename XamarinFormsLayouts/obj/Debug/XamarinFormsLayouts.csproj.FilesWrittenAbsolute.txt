@@ -1,0 +1,9 @@
+/Users/jeffcabrera/Projects/Forms/XamarinFormsLayouts/XamarinFormsLayouts/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/jeffcabrera/Projects/Forms/XamarinFormsLayouts/XamarinFormsLayouts/obj/Debug/XamarinFormsLayouts.LayoutsDemoPageXaml.xaml
+/Users/jeffcabrera/Projects/Forms/XamarinFormsLayouts/XamarinFormsLayouts/obj/Debug/LayoutsDemoPageXaml.xaml.g.cs
+/Users/jeffcabrera/Projects/Forms/XamarinFormsLayouts/XamarinFormsLayouts/bin/Debug/XamarinFormsLayouts.dll.mdb
+/Users/jeffcabrera/Projects/Forms/XamarinFormsLayouts/XamarinFormsLayouts/bin/Debug/XamarinFormsLayouts.dll
+/Users/jeffcabrera/Projects/Forms/XamarinFormsLayouts/XamarinFormsLayouts/obj/Debug/XamarinFormsLayouts.dll
+/Users/jeffcabrera/Projects/Forms/XamarinFormsLayouts/XamarinFormsLayouts/obj/Debug/XamarinFormsLayouts.dll.mdb
+/Users/jeffcabrera/Projects/Forms/XamarinFormsLayouts/XamarinFormsLayouts/bin/Debug/Xamarin.Forms.Core.dll
+/Users/jeffcabrera/Projects/Forms/XamarinFormsLayouts/XamarinFormsLayouts/bin/Debug/Xamarin.Forms.Xaml.dll
